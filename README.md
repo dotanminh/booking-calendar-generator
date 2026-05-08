@@ -29,3 +29,5 @@ Mọi đóng góp, báo lỗi (issues) và pull requests (PRs) đều được c
 
 ## 📄 Giấy phép (License)
 Dự án được phân phối dưới giấy phép **MIT**. Xem file [LICENSE](./LICENSE) để biết thêm chi tiết.
+"# Added test comment for PR review testing"  
+""  
