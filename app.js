@@ -8,7 +8,7 @@ const CONFIG = {
   BACKEND_URL: 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE',
 
   // Thông tin chủ sở hữu
-  OWNER_NAME: 'Minh Đỗ',
+  OWNER_NAME: 'YOUR_NAME_HERE',
 
   // Khung giờ làm việc (0=CN, 1=T2, ..., 6=T7)
   WORKING_DAYS: [1, 2, 3, 4, 5, 6],
