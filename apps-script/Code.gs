@@ -14,7 +14,7 @@
 // ── CONFIG ──
 const CALENDAR_ID = 'primary'; // hoặc ID calendar riêng
 const SHEET_NAME = 'Booking Log';  // Tên sheet log
-const OWNER_NAME = 'Minh Đỗ';
+const OWNER_NAME = 'YOUR_NAME_HERE'; // Thay tên của bạn
 const DEFAULT_LOCATION_OFFLINE = 'Liên hệ để xác nhận địa điểm';
 
 // ── Xử lý GET request (lấy khung giờ trống) ──
