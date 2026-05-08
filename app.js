@@ -5,7 +5,7 @@
 // ── Configuration ──
 const CONFIG = {
   // Google Apps Script Web App URL (paste sau khi deploy)
-  BACKEND_URL: 'https://script.google.com/macros/s/AKfycby_-tqPxYeci50kc3oKsn4YKfA15UDSh9mLt4eMgwrjD8esmyeMQnRCz5hEAsA8qNk1Kg/exec',
+  BACKEND_URL: 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE',
 
   // Thông tin chủ sở hữu
   OWNER_NAME: 'Minh Đỗ',
